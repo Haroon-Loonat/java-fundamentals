@@ -10,7 +10,8 @@ It consists of the following java files:
     ConditionalStatements.java:
         Demonstrates if, else-if statements.
 ***
-
+    SelectionAndIterators.java:
+        Demonstrates switch-case and while, do-while, for, for collections loops.
 
 
 
