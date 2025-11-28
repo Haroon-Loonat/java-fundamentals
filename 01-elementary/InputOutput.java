@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class InputOutputDemo {
+public class InputOutput {
 
     public static void main (String[] args) {
 
@@ -19,7 +19,7 @@ public class InputOutputDemo {
         System.out.printf("Formatting number to decimal with 2 points -> %.2f%n", fltTest);
         System.out.printf("Formatting number to scientific notation -> %e", fltTest);
 
-        System.out.println("\nEnd of \"InputOutputDemo.java\"\n");
+        System.out.println("\nEnd of \"InputOutput.java\"\n");
 
     }
 
