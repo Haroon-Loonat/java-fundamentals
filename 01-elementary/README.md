@@ -15,5 +15,8 @@ It consists of the following java files:
 
 *** 
     MethodsAndArrays.java:
-        Demonstrates use of an array, using methods to display, sort, reverse array
+        Demonstrates use of an array, using methods to display, sort, reverse array.
 
+***
+    Exceptions.java:
+        Demonstrates some of the different ways to handle exceptions, such as try-catch, passing to caller, and performing an operation before passing to caller.
