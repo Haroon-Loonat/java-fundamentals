@@ -10,5 +10,9 @@ It consists of the following java files:
         How some mutable Strings work.
         Showing String Tokenizer.
 
-    TextIO
-        Demonstrates teh very basics of reading/writing from/to text files.
+    TextIO.java
+        Demonstrates the very basics of reading/writing from/to text files.
+
+    BinaryIO.java
+        Demonstrates reading/writing data from/to binary file.
+        Demonstrates reading/writing objects from/to binary file.
