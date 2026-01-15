@@ -1,7 +1,6 @@
-import java.awt.*;
 import java.util.StringTokenizer;
 
-public class Basics {
+public class StringBasics {
 
     public static void main(String[] args) {
 
