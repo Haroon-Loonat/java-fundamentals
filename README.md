@@ -1,5 +1,7 @@
-# java-fundamentals
+# archived-java-fundamentals
 ***
-This repository will be used for my Java fundamentals revision.
+This repository was originally used for my Java fundamentals revision.
 
-Each folder will cover a different Java topic, with small runnable programs.
+Each folder covered a different Java topic, with small runnable programs.
+
+No longer maintained - serves as an archive or earlier practice work.
